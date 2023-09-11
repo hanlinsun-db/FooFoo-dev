@@ -1,6 +1,7 @@
 # Databricks notebook source
 # MAGIC %sql
 # MAGIC select * from main.nyctaxi.trips
+# test hello
 
 # COMMAND ----------
 
