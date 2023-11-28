@@ -17,3 +17,7 @@
 
 dbutils.widgets.text("limit", "")
 dbutils.widgets.text("test", "")
+
+# COMMAND ----------
+
+curl --request GET "https://e2-dogfood.staging.cloud.databricks.com/api/2.0/preview/sql/statements"    
